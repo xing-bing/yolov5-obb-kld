@@ -2,9 +2,9 @@
 
 ![](./docs/100000003.bmp)
 
-![](D:\new_github\yolov5-obb-kld\docs\100000005.bmp)
+![](./docs/100000005.bmp)
 
-![](D:\new_github\yolov5-obb-kld\docs\100000634.bmp)
+![](./docs/100000634.bmp)
 
 ### 代码改进基于yolov5 + kld / gwd
 
@@ -52,11 +52,11 @@ prepare the labels format is [poly, classname,difficult]
 
 [x1, y1, x2, y2, x3, y3, x4, y4, classname, difficult]
 
-![image-20221125180733908](D:\new_github\yolov5-obb-kld\docs\image1.png)
+![image-20221125180733908](./docs/image1.png)
 
-![image-20221125180801149](D:\new_github\yolov5-obb-kld\docs\image2.png)
+![image-20221125180801149](./docs/image2.png)
 
-![image-20221125180832589](D:\new_github\yolov5-obb-kld\docs\image3.png)
+![image-20221125180832589](./docs/image3.png)
 
 
 
