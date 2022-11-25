@@ -1,0 +1,13 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: ./hrsc_data/   # dataset root dir
+train: hrsc/train_data/images    # train images (relative to 'path')
+val: hrsc/test_data/images    # val images (relative to 'path')
+test: hrsc/test_data/images  # test images (optional)
+
+# Classes
+nc: 2  # number of classes
+names: [ '__background__', 'ship' ]  # class names
+
+
+# Download script/URL (optional)
+# download: https://ultralytics.com/assets/coco128.zip
