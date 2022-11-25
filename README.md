@@ -1,6 +1,6 @@
 #  YOLOv5 for Oriented Object Detection use kld loss and gwd loss
 
-![](D:\new_github\yolov5-obb-kld\docs\100000003.bmp)
+![](.\docs\100000003.bmp)
 
 ![](D:\new_github\yolov5-obb-kld\docs\100000005.bmp)
 
